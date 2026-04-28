@@ -56,12 +56,10 @@
 
 ### 🤝 Let's Connect
 
-<p>
-  Open to collaborations, open source contributions, and cool project ideas.<br/>
-  If you're building something interesting — reach out to me at singlaishaan.09@gmail.com
-  <br> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaansinglaa)
-</p>
+Open to collaborations, open source contributions, and cool project ideas.
+If you're building something interesting — reach out to me at singlaishaan.09@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaansinglaa)
 
 ---
 
