@@ -58,7 +58,7 @@
 
 <p>
   Open to collaborations, open source contributions, and cool project ideas.<br/>
-  If you're building something interesting — reach out.
+  If you're building something interesting — reach out to me at singlaishaan.09@gmail.com.
 </p>
 
 ---
