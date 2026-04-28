@@ -61,7 +61,7 @@
   If you're building something interesting — reach out to me at singlaishaan.09@gmail.com
   <br> LinkedIn: (https://linkedin.com/in/ishaansinglaa)
 </p>
-(https://linkedin.com/in/ishaansinglaa)
+
 
 ---
 
