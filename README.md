@@ -75,8 +75,8 @@ The project combines:
 <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username to activate these cards -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IshaanSingla404&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanSingla404&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
